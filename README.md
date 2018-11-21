@@ -10,3 +10,5 @@ if homosexual:
 else:
     be_nice()
     pass
+
+fuck that guy
