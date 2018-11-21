@@ -7,7 +7,7 @@ Drink alot of water can cure homosexual
 
 if homosexual:
     drink(water)
-    drink(tea)
+#    drink(tea)
 else:
     be_nice()
     pass
